@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Fluent-AgrIcons';
   src:
-    url('fonts/Fluent-AgrIcons.ttf?xmal52') format('truetype'),
-    url('fonts/Fluent-AgrIcons.woff?xmal52') format('woff'),
-    url('fonts/Fluent-AgrIcons.svg?xmal52#Fluent-AgrIcons') format('svg');
+    url('fonts/Fluent-AgrIcons.ttf?1y9h1x') format('truetype'),
+    url('fonts/Fluent-AgrIcons.woff?1y9h1x') format('woff'),
+    url('fonts/Fluent-AgrIcons.svg?1y9h1x#Fluent-AgrIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.cellular-data-1-line:before {
+  content: "\f1e5";
+  color: #626262;
+}
+.cellular-data-1-fill:before {
+  content: "\f1e6";
+  color: #626262;
+}
 .accessibility-checkmark-fill:before {
   content: "\e900";
   color: #626262;
@@ -46,10 +54,6 @@
 }
 .add-square-fill:before {
   content: "\e905";
-  color: #626262;
-}
-.add-subtract-circle-fill:before {
-  content: "\e906";
   color: #626262;
 }
 .airplane-fill:before {
@@ -9130,5 +9134,9 @@
 }
 .accessibility-checkmark-line:before {
   content: "\f1e4";
+  color: #626262;
+}
+.add-subtract-circle-fill:before {
+  content: "\e906";
   color: #626262;
 }
