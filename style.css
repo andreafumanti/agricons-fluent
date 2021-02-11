@@ -1,10 +1,9 @@
 @font-face {
   font-family: 'Fluent-AgrIcons';
-  src:  url('fonts/Fluent-AgrIcons.eot?54rlmt');
-  src:  url('fonts/Fluent-AgrIcons.eot?54rlmt#iefix') format('embedded-opentype'),
-    url('fonts/Fluent-AgrIcons.ttf?54rlmt') format('truetype'),
-    url('fonts/Fluent-AgrIcons.woff?54rlmt') format('woff'),
-    url('fonts/Fluent-AgrIcons.svg?54rlmt#Fluent-AgrIcons') format('svg');
+  src:
+    url('fonts/Fluent-AgrIcons.ttf?xmal52') format('truetype'),
+    url('fonts/Fluent-AgrIcons.woff?xmal52') format('woff'),
+    url('fonts/Fluent-AgrIcons.svg?xmal52#Fluent-AgrIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
