@@ -1,0 +1,15 @@
+<svg id="a0ad8839-fbf0-49a4-9e5c-fe3f9f7d056f" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .bab3e356-1109-4c7b-9ceb-73eec4f2495f {
+        fill: #626262;
+      }
+
+      .bd311cab-95a1-462e-95e4-4fdc08c341e6 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <path class="bab3e356-1109-4c7b-9ceb-73eec4f2495f" d="M12,7a.76.76,0,0,1,.75.75v3.5h3.5a.75.75,0,0,1,0,1.5h-3.5v3.5a.75.75,0,0,1-1.5,0v-3.5H7.75a.75.75,0,0,1,0-1.5h3.5V7.75A.76.76,0,0,1,12,7Z"/>
+  <rect class="bd311cab-95a1-462e-95e4-4fdc08c341e6" width="24" height="24"/>
+</svg>
