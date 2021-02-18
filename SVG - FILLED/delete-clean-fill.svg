@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .a65d9bac-4369-4284-aacc-500baf520195 {
+        opacity: 0;
+      }
+
+      .a510fef7-288c-45a7-a8a3-58b7380e5a9e {
+        fill: #626262;
+      }
+    </style>
+  </defs>
+  <g id="a88777b9-aad0-498b-879a-3adca9aa6d83" data-name="BOX">
+    <rect id="e57b1507-f70d-4f05-ad39-b0763e618d4f" data-name="OVERLAY" class="a65d9bac-4369-4284-aacc-500baf520195" width="24" height="24"/>
+  </g>
+  <g id="fb33be99-b5f6-4973-bc51-3a29bd36ff95" data-name="Livello 8">
+    <path class="a510fef7-288c-45a7-a8a3-58b7380e5a9e" d="M20.31,5H15.25V4.76A3,3,0,0,0,12,2,3,3,0,0,0,8.75,5H3.59a.75.75,0,0,0-.65.75v.1a.76.76,0,0,0,.75.65h.6l1.28,13.2,0,.18a2.65,2.65,0,0,0,2.69,2.22h7.55a2.71,2.71,0,0,0,2.58-2.4L19.7,6.45h.71A.75.75,0,0,0,20.31,5ZM10.25,4.8A1.56,1.56,0,0,1,12,3.45,1.56,1.56,0,0,1,13.75,5h-3.5Z" transform="translate(0 0)"/>
+  </g>
+</svg>

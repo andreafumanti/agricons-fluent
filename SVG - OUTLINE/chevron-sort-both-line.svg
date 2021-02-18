@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .e93095b0-4a50-4485-bb11-f8f5d577d34d {
+        opacity: 0;
+      }
+
+      .bd4e1c90-abb9-4fb0-b9e3-dfd125e10255 {
+        fill: #626262;
+      }
+    </style>
+  </defs>
+  <g id="a0063cfc-dd88-44fc-95a1-ddac5a3c94d2" data-name="BOX">
+    <rect id="ade1bb0a-fce6-4e38-a07d-59fd90e3ff7c" data-name="OVERLAY" class="e93095b0-4a50-4485-bb11-f8f5d577d34d" width="24" height="24"/>
+  </g>
+  <g id="f055a62f-9830-4bf1-aa36-8f850bfe23fd" data-name="Livello 10">
+    <path class="bd4e1c90-abb9-4fb0-b9e3-dfd125e10255" d="M4.21,10.53a.75.75,0,0,0,1.06,0L12,3.81l6.72,6.72a.75.75,0,0,0,1.1-1s0,0,0,0L12.52,2.22a.75.75,0,0,0-1.06,0L4.21,9.47A.75.75,0,0,0,4.21,10.53Z" transform="translate(0 0)"/>
+    <path class="bd4e1c90-abb9-4fb0-b9e3-dfd125e10255" d="M19.79,13.47a.75.75,0,0,0-1.06,0L12,20.19,5.29,13.47a.75.75,0,0,0-1.1,1l0,0,7.25,7.25a.75.75,0,0,0,1.06,0l7.25-7.25A.75.75,0,0,0,19.79,13.47Z" transform="translate(0 0)"/>
+  </g>
+</svg>
