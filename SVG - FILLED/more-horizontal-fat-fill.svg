@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .a98b939d-8fab-481c-8649-899703587850 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .a810bf0d-2476-4a63-b008-fc3ab3af1dd0 {
+        fill: #626262;
+      }
+    </style>
+  </defs>
+  <g id="e8ffbf87-ed52-4d0e-a0d3-dfe969ea4b04" data-name="Livello 9">
+    <rect class="a98b939d-8fab-481c-8649-899703587850" width="24" height="24"/>
+    <g>
+      <path class="a810bf0d-2476-4a63-b008-fc3ab3af1dd0" d="M7,12A2.5,2.5,0,1,1,4.5,9.5,2.5,2.5,0,0,1,7,12Z"/>
+      <path class="a810bf0d-2476-4a63-b008-fc3ab3af1dd0" d="M14.5,12A2.5,2.5,0,1,1,12,9.5,2.5,2.5,0,0,1,14.5,12Z"/>
+      <path class="a810bf0d-2476-4a63-b008-fc3ab3af1dd0" d="M19.5,14.5A2.5,2.5,0,1,0,17,12,2.5,2.5,0,0,0,19.5,14.5Z"/>
+    </g>
+  </g>
+</svg>
